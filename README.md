@@ -1,19 +1,27 @@
 #Présentation
 
-Je m'appelle Lucas Jourdain.
+Je m'appelle Lucas Jourdain.    
 Je suis actuellement en formation COBOL.
 
-#Compétences
+#Compétences  
 
--java
--python 
--c#
--c
--rpg maker
--srpg studio
--renpy
+###langage de programmation
+
+-java  
+-python   
+-c#  
+-c  
+-sql  
+
+###moteur de jeu
+
+-rpg maker  
+-srpg studio  
+-renpy  
 
 <!--
+pour passer à la ligne, il faut mettre 2 espaces vide à la fin du texte
+
 **lucas-watteuw/lucas-watteuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
